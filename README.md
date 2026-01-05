@@ -4,10 +4,6 @@
 
 🌱 I’m currently learning how agentic AI, workflow automation, and data platforms change product discovery, delivery, and decision-making.
 
-👯 I’m looking to collaborate on early-stage AI, analytics, or data-driven product ideas where experimentation and learning matter more than polish.
-
-🤔 I’m looking for help with stress-testing assumptions, edge cases, and real-world constraints in AI-enabled products.
-
 💬 Ask me about AI product strategy and management, analytics platforms, feasibility prototyping, and translating ambiguous business problems into executable plans.
 
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/madhudevi/
