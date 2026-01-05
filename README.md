@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**madhudevi25/madhudevi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently working on AI and analytics product experiments—small, hands-on prototypes to validate feasibility, explore trade-offs, and de-risk product ideas before scale.
 
 🌱 I’m currently learning how agentic AI, workflow automation, and data platforms change product discovery, delivery, and decision-making.
